@@ -74,6 +74,12 @@ I am Girish Pandey full stack developer who have 3+ experieneces in React, NodeJ
 ## 🛠 Skills
 Javascript, HTML, CSS...
 
+## Project Data Image Presentation
+
+![Flavanoids Measurement](Flavanoids_Measurement.jpg)
+
+![Gamma Measurement](Gamma_Measurement.jpg)
+
 
 ## Tech Stack
 
