@@ -1,4 +1,7 @@
 
+# DataVisulizationOnWineData
+
+A brief description of what this project does and who it's for
 
 
 # Getting Started with Create React App
@@ -51,3 +54,28 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## Optimizations
+
+1) Helper methods created for mean, media and mode calculation
+2) Two seperate methods has been created for two different properties of the respective "Flavanoids" and "Gamma"
+3) Two different tables has been created in jsx section in reactjs
+4) Typescript has been implemented for the data type validation between interface data type and wine json array of objects
+5) Whereever it is required to maintain the model type has been used
+6) Well line comments used in the throughtout application
+7) Both output snapshots has been attached in the readme.md file
+
+Note: I will be available for the further briefing abou the project 
+## 🚀 About Me
+I'm a full stack developer...
+
+I am Girish Pandey full stack developer who have 3+ experieneces in React, NodeJS, NestJS and MongoDB and Postgres SQL and Firebase authentication while working on different projects
+
+## 🛠 Skills
+Javascript, HTML, CSS...
+
+
+## Tech Stack
+
+**Client:** React and Typescript
+
